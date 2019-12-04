@@ -17,6 +17,6 @@ https://financialmodelingprep.com/developer/docs#Stock-Price.
 `npm install ` 
 
 ## Usage
- 
+ cp .env.example .env
 `php artisan serve  `  
 `npm run watch`
